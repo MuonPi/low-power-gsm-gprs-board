@@ -28,3 +28,5 @@ fp-info-cache
 *.xml
 *.csv
 
+low_power_gsm-gprs-backups/
+low_power_gsm-gprs-backups/*
