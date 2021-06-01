@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L low_power_gsm-gprs:SARA-G450 U1
+L muonpi-kicad-library:SARA-G450 U1
 U 1 1 60B38C8C
 P 2250 1950
 F 0 "U1" H 2250 3275 50  0000 C CNN
@@ -241,7 +241,7 @@ Connection ~ 4250 1000
 Wire Wire Line
 	4250 1000 4450 1000
 $Comp
-L low_power_gsm-gprs:LT1764AEQ#PBF U3
+L muonpi-kicad-library:LT1764AEQ#PBF U3
 U 1 1 60B38314
 P 6550 1400
 F 0 "U3" H 6550 1767 50  0000 C CNN
@@ -461,7 +461,7 @@ Connection ~ 9100 1600
 Wire Wire Line
 	9100 1600 8700 1600
 $Comp
-L low_power_gsm-gprs:PL2303SA U2
+L muonpi-kicad-library:PL2303SA U2
 U 1 1 60B921DF
 P 5500 3900
 F 0 "U2" H 5500 4267 50  0000 C CNN
@@ -596,7 +596,7 @@ Connection ~ 5500 3150
 Wire Wire Line
 	5500 3150 5100 3150
 $Comp
-L Connector:USB_B_Micro J4
+L muonpi-kicad-library:USB_B_Micro J4
 U 1 1 60BD11FB
 P 9400 2750
 F 0 "J4" H 9457 3217 50  0000 C CNN
@@ -670,7 +670,7 @@ Wire Wire Line
 	8850 3150 9150 3150
 Connection ~ 9150 3150
 $Comp
-L low_power_gsm-gprs:SIM_Card J2
+L muonpi-kicad-library:SIM_Card J2
 U 1 1 60B43D6F
 P 4350 5400
 F 0 "J2" H 4980 5500 50  0000 L CNN
@@ -816,7 +816,7 @@ Connection ~ 3650 5950
 Wire Wire Line
 	3650 5950 4400 5950
 $Comp
-L low_power_gsm-gprs:Conn_02x20_Odd_Even J3
+L muonpi-kicad-library:Conn_02x20_Odd_Even J3
 U 1 1 60C7CA54
 P 8850 5050
 F 0 "J3" H 8900 6167 50  0000 C CNN

@@ -1,3 +1,3 @@
 [submodule "low_power_gsm-gprs.pretty"]
-	path = low_power_gsm-gprs.pretty
+	path = muonpi-kicad-library.pretty
 	url = git@github.com:MuonPi/kicad-library.git
