@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name low_power_gsm-gprs)(type KiCad)(uri ${KIPRJMOD}/low_power_gsm-gprs.pretty)(options "")(descr ""))
+)
