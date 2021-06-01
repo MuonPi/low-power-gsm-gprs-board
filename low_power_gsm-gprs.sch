@@ -198,12 +198,12 @@ Wire Wire Line
 Wire Wire Line
 	1350 1500 1450 1500
 $Comp
-L Connector:Conn_Coaxial J1
+L muonpi-kicad-library:Conn_Coaxial J1
 U 1 1 60BC3720
 P 4650 1000
 F 0 "J1" H 4750 975 50  0000 L CNN
 F 1 "Conn_Coaxial" H 4750 884 50  0000 L CNN
-F 2 "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" H 4650 1000 50  0001 C CNN
+F 2 "muonpi-kicad-library:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" H 4650 1000 50  0001 C CNN
 F 3 " ~" H 4650 1000 50  0001 C CNN
 	1    4650 1000
 	1    0    0    -1  
@@ -246,7 +246,7 @@ U 1 1 60B38314
 P 6550 1400
 F 0 "U3" H 6550 1767 50  0000 C CNN
 F 1 "LT1764AEQ#PBF" H 6550 1676 50  0000 C CNN
-F 2 "low_power_gsm-gprs:TO-263-5_TabPin3" H 6550 1750 50  0001 C CNN
+F 2 "muonpi-kicad-library:DD-PAK-5_L10.6-W10.3-P1.70-LS14.5-BR" H 6550 1750 50  0001 C CNN
 F 3 "https://www.mouser.de/datasheet/2/609/1764afb-1268181.pdf" H 6550 1400 50  0001 C CNN
 	1    6550 1400
 	1    0    0    -1  
