@@ -596,12 +596,12 @@ Connection ~ 5500 3150
 Wire Wire Line
 	5500 3150 5100 3150
 $Comp
-L muonpi-kicad-library:USB_B_Micro J4
+L muonpi-kicad-library:USB_B_Micro_SMD J4
 U 1 1 60BD11FB
 P 9400 2750
 F 0 "J4" H 9457 3217 50  0000 C CNN
 F 1 "USB_B_Micro" H 9457 3126 50  0000 C CNN
-F 2 "Connector_USB:USB_Micro-B_Amphenol_10104110_Horizontal" H 9550 2700 50  0001 C CNN
+F 2 "muonpi-kicad-library:USB_Micro-B_Amphenol_10104110_Horizontal" H 9550 2700 50  0001 C CNN
 F 3 "~" H 9550 2700 50  0001 C CNN
 	1    9400 2750
 	1    0    0    -1  
