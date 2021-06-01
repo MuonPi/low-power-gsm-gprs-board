@@ -19,7 +19,7 @@ U 1 1 60B38C8C
 P 2250 1950
 F 0 "U1" H 2250 3275 50  0000 C CNN
 F 1 "SARA-G450" H 2250 3184 50  0000 C CNN
-F 2 "low_power_gsm-gprs:ublox_SARA-G3_LGA-96" H 2950 900 50  0001 C CNN
+F 2 "muonpi-kicad-library:ublox_SARA-G3_LGA-96" H 2950 900 50  0001 C CNN
 F 3 "https://www.u-blox.com/sites/default/files/SARA-G450_DataSheet_UBX-18006165.pdf" H 2250 1950 50  0001 C CNN
 	1    2250 1950
 	1    0    0    -1  
@@ -675,7 +675,7 @@ U 1 1 60B43D6F
 P 4350 5400
 F 0 "J2" H 4980 5500 50  0000 L CNN
 F 1 "SIM_Card" H 4980 5409 50  0000 L CNN
-F 2 "low_power_gsm-gprs:SIM" H 4350 5750 50  0001 C CNN
+F 2 "muonpi-kicad-library:SIM" H 4350 5750 50  0001 C CNN
 F 3 " ~" H 4300 5400 50  0001 C CNN
 	1    4350 5400
 	1    0    0    -1  
@@ -821,7 +821,7 @@ U 1 1 60C7CA54
 P 8850 5050
 F 0 "J3" H 8900 6167 50  0000 C CNN
 F 1 "Conn_02x20_Odd_Even" H 8900 6076 50  0000 C CNN
-F 2 "low_power_gsm-gprs:PinSocket_2x20_P2.54mm_Vertical" H 8850 5050 50  0001 C CNN
+F 2 "muonpi-kicad-library:PinSocket_2x20_P2.54mm_Vertical" H 8850 5050 50  0001 C CNN
 F 3 "~" H 8850 5050 50  0001 C CNN
 	1    8850 5050
 	1    0    0    -1  
